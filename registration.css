@@ -1,0 +1,29 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background:antiquewhite;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    
+    }
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+     ::-webkit-input-placeholder{
+   font-size: 15px;
+   justify-content: center;
+   text-align: center;
+}
+.select{
+    font-size: 15px;
+    padding: 2px;
+}
+#op{
+    color:black;
+}
